@@ -113,5 +113,5 @@ The system demonstrates how AI augmentation can transform healthcare workflows w
 ## 📬 Contact
 
 **Developer:** Vipin Choudhary  
-**Email:** email@placeholder.com  
-**GitHub:** [github.com/placeholder](https://github.com/placeholder)
+**Email:** vipinchoudhary0911@gmail.com 
+**GitHub:** [github.com/placeholder]([https://github.com/placeholder](https://github.com/VipinChoudhary-dev))
