@@ -7,7 +7,7 @@ Your All-in-One Medical Companion for Diagnostics, Learning, and Patient Managem
 ## 🎥 Demo
 
 A complete video walkthrough is available here:  
-🔗 [Watch Demo Video](https://placeholder.link)
+🔗 [Watch Demo Video]([https://placeholder.link](https://drive.google.com/drive/folders/1gs6Fjc-3O0mmMdExggYrmFRRSUY-yBpJ?usp=sharing))
 
 ---
 
